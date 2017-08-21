@@ -1,7 +1,7 @@
 # SampleContractFirst-Stub
 By using contract first approach (wsdl) the Stub is created.
 
-Instruction
+### Instruction
 
 1. Run the class "StockQuoteClient.java".
 
