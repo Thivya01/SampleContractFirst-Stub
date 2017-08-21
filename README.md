@@ -11,5 +11,5 @@ By using contract first approach (wsdl) the Stub is created.
 
 By logic Your input String will be changed to First three letters and it will get converted to Uppercase
 
-Eg: Input - "Acknowledgment" 
-   Output - "ACK"
+Eg: Input - ### "Acknowledgment" 
+   Output - ### "ACK"
