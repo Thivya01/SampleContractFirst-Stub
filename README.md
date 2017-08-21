@@ -9,7 +9,7 @@ By using contract first approach (wsdl) the Stub is created.
 
 3. As an out put you will get the " Symbol" of that string (eg.AMA)
 
-Logic applied here "In Your input String, Only First three letters is taken and the three letters will get converted to Uppercase"
+Logic applied here "In Your input String, Only First three letters are taken and the three letters will get converted to Uppercase"
 
 Eg: Input - "Acknowledgment" 
 
